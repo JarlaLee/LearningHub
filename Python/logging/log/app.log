@@ -1,0 +1,15 @@
+2025-06-21 13:07:03 - logging_start.py - DEBUG - 这是一个调试信息!
+2025-06-21 13:07:03 - logging_start.py - INFO - 这是一个普通信息!
+2025-06-21 13:07:03 - logging_start.py - WARNING - 这是一个警告信息!
+2025-06-21 13:07:03 - logging_start.py - ERROR - 这是一个错误信息!
+2025-06-21 13:07:03 - logging_start.py - CRITICAL - 这是一个严重错误信息!
+2025-06-21 13:12:01,460 - my_logger - DEBUG - 这是一个 debug 消息
+2025-06-21 13:12:01,460 - my_logger - INFO - 这是一个 info 消息
+2025-06-21 13:12:01,460 - my_logger - WARNING - 这是一个 warning 消息
+2025-06-21 13:12:01,460 - my_logger - ERROR - 这是一个 error 消息
+2025-06-21 13:12:01,460 - my_logger - CRITICAL - 这是一个 critical 消息
+2025-06-21 13:21:25,333 - my_logger - ERROR - 这是一条ERROR信息
+2025-06-21 13:21:59,272 - my_logger - DEBUG - 这是一条debug信息
+2025-06-21 13:21:59,272 - my_logger - INFO - 这是一条info信息
+2025-06-21 13:21:59,272 - my_logger - ERROR - 这是一条ERROR信息
+2025-06-21 13:22:27,785 - my_logger - ERROR - 这是一条ERROR信息
