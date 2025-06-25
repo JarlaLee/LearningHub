@@ -202,8 +202,7 @@ public class StreamDemo01 {
          * Collectors.toList() ---> 把流转换成List
          */
         System.out.println("bookNameList: " + bookNameSet);
-
-
+        
         // 获取一个Map集合，map的key就是作者名字，value就是List<Book>
         // Map中不允许重复的key，因此在组成map集合之前需要去重
         Map<String, List<Book>> collect = authorList3.stream()
